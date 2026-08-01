@@ -1,0 +1,3 @@
+group,users,purchases,conversion_rate
+Control,50000,2169,0.04338
+Treatment,50000,2401,0.04802
